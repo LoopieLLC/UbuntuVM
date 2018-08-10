@@ -11,3 +11,5 @@ Next, you will want to download the Ubuntu 16.04 Xenial 64bit VID (https://www.o
 This will leave you with a .7z compressed file.  You need to unzip it using a 7z tool.  You may need to download this tool.  There are many tools and tutorials online.
 
 Once you have done that you can follow this tutorial (https://blogs.oracle.com/oswald/importing-a-vdi-in-virtualbox) for importing the .vdi file into VirtualBox to create a new Ubuntu virtual machine.
+
+When you get to step 3 of the tutorial pick the option to use an existing hard disk and browse for the .vdi file that you unziped and then click "create"
