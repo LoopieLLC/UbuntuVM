@@ -12,4 +12,7 @@ This will leave you with a .7z compressed file.  You need to unzip it using a 7z
 
 Once you have done that you can follow this tutorial (https://blogs.oracle.com/oswald/importing-a-vdi-in-virtualbox) for importing the .vdi file into VirtualBox to create a new Ubuntu virtual machine.
 
-When you get to step 3 of the tutorial pick the option to use an existing hard disk and browse for the .vdi file that you unziped and then click "create"
+When you get to step 3 of the tutorial pick the option to use an existing hard disk and browse for the .vdi file that you unziped and then click "create".
+
+After you launch the virtual machine, a Ubuntu distribution will launch and you will be taken to a login screen.  You will be prompted for a password. 
+pswd: osboxes.org
